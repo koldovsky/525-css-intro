@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+p {
+    background-color: #aa00ff;
+}
+
+#chosen .hello {
+    color: aliceblue;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+div > p {
+    color: aliceblue;
+}
+
+p:hover {
+    font-size: 2rem;
+}
+
+p::first-letter {
+    font-size: 2rem;
+}
